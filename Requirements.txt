@@ -1,6 +1,0 @@
-MetaTrader5
-flask
-requests
-pandas
-numpy
-TA-Lib
