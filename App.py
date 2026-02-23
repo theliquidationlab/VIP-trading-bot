@@ -5,9 +5,9 @@ import requests
 app = Flask(__name__)
 
 # Get Telegram credentials from Railway environment variables
-TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
-TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
-TELEGRAM_URL = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
+TELEGRAM_TOKEN = os.getenv("8271119506:AAEjWJtR4qElqLfCl7Die1Marbo1UiRSurw")
+TELEGRAM_CHAT_ID = os.getenv("-1003797274658")
+TELEGRAM_URL = f"https://api.telegram.org/bot{8271119506:AAEjWJtR4qElqLfCl7Die1Marbo1UiRSurw}/sendMessage"
 
 # Function to send Telegram message
 def send_telegram(message):
