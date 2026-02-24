@@ -1,2 +1,4 @@
-flask
+Flask
+MetaTrader5
+python-telegram-bot
 requests
