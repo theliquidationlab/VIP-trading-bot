@@ -2,3 +2,4 @@ Flask
 MetaTrader5
 python-telegram-bot
 requests
+MetaTrader5==5.0.5640
